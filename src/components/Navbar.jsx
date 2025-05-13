@@ -113,7 +113,7 @@ const Navbar = () => {
                         to="/"
                         className="hover:bg-transparent text-3xl font-bold"
                     >
-                        BistroHub
+                        El Gourmand
                     </NavLink>
                 </div>
 

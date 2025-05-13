@@ -20,7 +20,7 @@ const Menu = () => {
     return (
         <div>
             <Helmet>
-                <title>BistroHub | Menu</title>
+                <title>El Gourmand | Menu</title>
             </Helmet>
 
             <DynamicCover

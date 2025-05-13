@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <footer className="footer bg-gray-50 flex flex-col items-center pt-12 pb-4">
             <div className="flex flex-col items-center">
-                <h1 className="text-3xl font-bold text-black">BistroHub</h1>
+                <h1 className="text-3xl font-bold text-black">El Gourmand</h1>
                 <p className="text-black/50">
                     The best place to find your favorite foods and drinks
                 </p>
@@ -31,7 +31,7 @@ const Footer = () => {
                 </nav>
             </div>
             <p className="text-black/50">
-                &copy; {new Date().getFullYear()} BistroHub. All rights
+                &copy; {new Date().getFullYear()} El Gourmand. All rights
                 reserved.
             </p>
         </footer>
